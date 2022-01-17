@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2BD0BBF1-05EB-4163-9E64-ACB184C2B26E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FF25B9A6-5DA2-4BEE-8795-17CE9385C3DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstProject">
+      <UniqueIdentifier>{BB78CD42-8571-4B59-B001-231ED734B93C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstProject\Collider.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Collider.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\ColliderMovementComponent.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\ColliderMovementComponent.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Critter.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Critter.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FirstProject\FirstProject.Build.cs">
+      <Filter>Source\FirstProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstProject\FirstProject.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FirstProject.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\FirstProjectGameModeBase.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\FirstProjectGameModeBase.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\Main.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\Main.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\MainCharacter.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\MainCharacter.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstProject\MyObject.cpp">
+      <Filter>Source\FirstProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\MyObject.h">
+      <Filter>Source\FirstProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\FirstProject\GamePlayActors">
+      <UniqueIdentifier>{02CFAD57-4ABB-41EF-B979-1990105E1C1C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstProject\GamePlayActors\Floater.cpp">
+      <Filter>Source\FirstProject\GamePlayActors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstProject\GamePlayActors\Floater.h">
+      <Filter>Source\FirstProject\GamePlayActors</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

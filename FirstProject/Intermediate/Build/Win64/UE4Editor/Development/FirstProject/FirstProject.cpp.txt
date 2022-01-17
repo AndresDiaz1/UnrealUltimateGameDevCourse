@@ -1,0 +1,2 @@
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Source\FirstProject\FirstProject.h

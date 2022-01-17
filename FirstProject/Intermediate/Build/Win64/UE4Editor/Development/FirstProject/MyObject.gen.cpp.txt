@@ -1,0 +1,11 @@
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Source\FirstProject/MyObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\MyObject.generated.h

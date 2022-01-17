@@ -1,0 +1,5 @@
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Source\FirstProject/GamePlayActors/Floater.h
+C:\Users\zuly-\OneDrive\Documentos\UnrealEngneCourse\UnrealUltimateGameDevCourse\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Floater.generated.h
